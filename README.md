@@ -21,6 +21,7 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 * 🔥 [v0 by Vercel](https://v0.dev/chat) - Generative UI system by Vercel for effortless Next.js frontend creation. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [Replit](https://replit.com/) - Collaborative cloud IDE with integrated AI agents for building and deploying software. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [Google AI Studio](https://aistudio.google.com/) - Web-based prototyping environment for experimenting with Gemini models. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* [Base44](https://base44.com/) - AI-powered platform to build full-stack apps and websites using natural language. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 
 ## IDEs and Code Editors
 
@@ -68,6 +69,7 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 
 * [CodeGuide](https://www.codeguide.dev/) - AI-powered tool for generating comprehensive and accurate project documentation. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [AGENTS.md](https://agents.md/) - Standardized open format for providing context and instructions to coding agents. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* [Agent Skills](https://agentskills.io/) - A directory of reusable skills and capabilities to equip AI agents with specialized expertise. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 
 
 ## Contribute
