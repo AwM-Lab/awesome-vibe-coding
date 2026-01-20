@@ -59,6 +59,7 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 * [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) - SDK and CLI tools for building and deploying AI-powered apps on Cloudflare. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Warp](https://www.warp.dev/) - Modern, AI-integrated terminal emulator that redefines the command line experience. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Community-driven command-line tool for interacting with Google's Gemini models. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* 🔥 [OpenCode](https://opencode.ai/) - The leading open-source AI coding agent that works across terminal, IDE, and desktop with support for any model. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Oh My OpenCode](https://github.com/code-yeongyu/oh-my-opencode) - Comprehensive agent harness orchestrating specialized sub-agents (Sisyphus, Oracle) for complex workflows with "Ultrawork" mode. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 
 ## Task Management for AI Coding
